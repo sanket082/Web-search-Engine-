@@ -1,5 +1,5 @@
 # Web-search-Engine-
-https://docs.google.com/viewer?url=$https://github.com/sanket082/Web-search-Engine-/blob/main/finals.pdf
+https://docs.google.com/viewer?url=https://github.com/sanket082/Web-search-Engine-/blob/main/finals.pdf
 
 Amazon Data analysis
 
